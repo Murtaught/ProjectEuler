@@ -54,7 +54,8 @@ void solve(const char *filename)
 
 int main()
 {
-    solve("input1.txt");
+    //solve("input1.txt");
+    solve("triangle.txt");
 
     return 0;
 }
